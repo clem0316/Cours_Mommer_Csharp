@@ -1,0 +1,4 @@
+/Users/clement/Documents/Cours/Christophe Mommer/C#/obj/Debug/net7.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clement/Documents/Cours/Christophe Mommer/C#/obj/Debug/net7.0/C#.AssemblyInfoInputs.cache
+/Users/clement/Documents/Cours/Christophe Mommer/C#/obj/Debug/net7.0/C#.AssemblyInfo.cs
+/Users/clement/Documents/Cours/Christophe Mommer/C#/obj/Debug/net7.0/C#.csproj.CoreCompileInputs.cache

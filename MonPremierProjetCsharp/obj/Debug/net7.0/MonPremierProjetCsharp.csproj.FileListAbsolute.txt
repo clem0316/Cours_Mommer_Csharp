@@ -1,0 +1,14 @@
+/Users/clement/Documents/Cours/Christophe Mommer/C#/MonPremierProjetCsharp/bin/Debug/net7.0/MonPremierProjetCsharp
+/Users/clement/Documents/Cours/Christophe Mommer/C#/MonPremierProjetCsharp/bin/Debug/net7.0/MonPremierProjetCsharp.deps.json
+/Users/clement/Documents/Cours/Christophe Mommer/C#/MonPremierProjetCsharp/bin/Debug/net7.0/MonPremierProjetCsharp.runtimeconfig.json
+/Users/clement/Documents/Cours/Christophe Mommer/C#/MonPremierProjetCsharp/bin/Debug/net7.0/MonPremierProjetCsharp.dll
+/Users/clement/Documents/Cours/Christophe Mommer/C#/MonPremierProjetCsharp/bin/Debug/net7.0/MonPremierProjetCsharp.pdb
+/Users/clement/Documents/Cours/Christophe Mommer/C#/MonPremierProjetCsharp/obj/Debug/net7.0/MonPremierProjetCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clement/Documents/Cours/Christophe Mommer/C#/MonPremierProjetCsharp/obj/Debug/net7.0/MonPremierProjetCsharp.AssemblyInfoInputs.cache
+/Users/clement/Documents/Cours/Christophe Mommer/C#/MonPremierProjetCsharp/obj/Debug/net7.0/MonPremierProjetCsharp.AssemblyInfo.cs
+/Users/clement/Documents/Cours/Christophe Mommer/C#/MonPremierProjetCsharp/obj/Debug/net7.0/MonPremierProjetCsharp.csproj.CoreCompileInputs.cache
+/Users/clement/Documents/Cours/Christophe Mommer/C#/MonPremierProjetCsharp/obj/Debug/net7.0/MonPremierProjetCsharp.dll
+/Users/clement/Documents/Cours/Christophe Mommer/C#/MonPremierProjetCsharp/obj/Debug/net7.0/refint/MonPremierProjetCsharp.dll
+/Users/clement/Documents/Cours/Christophe Mommer/C#/MonPremierProjetCsharp/obj/Debug/net7.0/MonPremierProjetCsharp.pdb
+/Users/clement/Documents/Cours/Christophe Mommer/C#/MonPremierProjetCsharp/obj/Debug/net7.0/MonPremierProjetCsharp.genruntimeconfig.cache
+/Users/clement/Documents/Cours/Christophe Mommer/C#/MonPremierProjetCsharp/obj/Debug/net7.0/ref/MonPremierProjetCsharp.dll
